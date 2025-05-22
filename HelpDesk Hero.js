@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              HelpDesk Hero
 // @namespace         http://tampermonkey.net/
-// @version           v3.0.1
+// @version           v3.0.2
 // @description       To narzędzie dla Baselinker integruje licznik MP4 z graficznym celem i personalizowanym motywem, rozbudowaną watchlistę ticketów z terminami i priorytetami oraz konfigurowalny dashboard startowy.
 // @author            Bartłomiej K. & Alex Gago (funkcjonalność Watchlist)
 // @match             https://supportislove2.baselinker.com/*
