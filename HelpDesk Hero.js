@@ -5,6 +5,8 @@
 // @description       To narzędzie dla Baselinker integruje licznik MP4 z graficznym celem i personalizowanym motywem, rozbudowaną watchlistę ticketów z terminami i priorytetami oraz konfigurowalny dashboard startowy.
 // @author            Bartłomiej K. & Alex Gago (funkcjonalność Watchlist)
 // @match             https://supportislove2.baselinker.com/*
+// @updateURL         https://raw.githubusercontent.com/badurax96/bdrhdh/main/HelpDesk%20Hero.js
+// @downloadURL       https://raw.githubusercontent.com/badurax96/bdrhdh/main/HelpDesk%20Hero.js
 // @grant             GM_addStyle
 // @grant             GM_setValue
 // @grant             GM_getValue
